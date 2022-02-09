@@ -8,7 +8,10 @@
     text-align: center;
 }
 
-.aboutme {
+#about {
     text-align: center;
+}
+
+.aboutme {
     border-radius: 10px;
 }
